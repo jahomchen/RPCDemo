@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Commom/Commom.iml" filepath="$PROJECT_DIR$/Commom/Commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RpcClient/RpcClient.iml" filepath="$PROJECT_DIR$/RpcClient/RpcClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RpcServer/RpcServer.iml" filepath="$PROJECT_DIR$/RpcServer/RpcServer.iml" />
+    </modules>
+  </component>
+</project>
